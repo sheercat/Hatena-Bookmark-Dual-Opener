@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Hatena Bookmark Dual Opener",
-  "version": "1.0",
+  "version": "1.01",
   "description": "はてなブックマークの記事リンクをクリックしたとき、記事とブコメページを別タブで同時に開きます。",
   "permissions": ["tabs", "scripting"],
   "host_permissions": ["https://b.hatena.ne.jp/*"],
